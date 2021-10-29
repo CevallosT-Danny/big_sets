@@ -1,0 +1,68 @@
+View gene model output: PS | PDF
+GENSCAN 1.0	Date run: 29-Oct-121	Time: 04:53:30
+
+
+
+Sequence /tmp/10_29_21-04:53:30.fasta : 2691 bp : 62.80% C+G : Isochore 4 (57 - 100 C+G%)
+
+
+
+Parameter matrix: HumanIso.smat
+
+
+
+Predicted genes/exons:
+
+
+
+Gn.Ex Type S .Begin ...End .Len Fr Ph I/Ac Do/T CodRg P.... Tscr..
+
+----- ---- - ------ ------ ---- -- -- ---- ---- ----- ----- ------
+
+
+
+ 1.01 Init +    320   1226  907  1  1   56   94  1222 0.871 114.47
+
+ 1.02 Term +   2401   2675  275  2  2   67   45   327 0.988  22.95
+
+
+
+Suboptimal exons with probability > 1.000
+
+
+
+Exnum Type S .Begin ...End .Len Fr Ph B/Ac Do/T CodRg P.... Tscr..
+
+----- ---- - ------ ------ ---- -- -- ---- ---- ----- ----- ------
+
+
+
+
+
+NO EXONS FOUND AT GIVEN PROBABILITY CUTOFF
+
+
+
+
+
+Predicted peptide sequence(s):
+
+
+
+
+
+>/tmp/10_29_21-04:53:30.fasta|GENSCAN_predicted_peptide_1|393_aa
+
+MSCSESPAANSFLVDSLISSGRGEAGGGGGGAGGGGGGGYYAHGGVYLPPAADLPYGLQS
+
+CGLFPTLGGKRNEAASPGSGGGGGGLGPGAHGYGPSPIDLWLDAPRSCRMEPPDGPPPPP
+
+QQQPPPPPQPPQPAPQATSCSFAQNIKEESSYCLYDSADKCPKVSATAAELAPFPRGPPP
+
+DGCALGTSSGVPVPGYFRLSQAYGTAKGYGSGGGGAQQLGAGPFPAQPPGRGFDLPPALA
+
+SGSADAARKERALDSPPPPTLACGSGGGSQGDEEAHASSSAAEELSPAPSESSKASPEKD
+
+SLGNSKGENAANWLTAKSGRKKRCPYTKHQTLELEKEFLFNMYLTRERRLEISRSVHLTD
+
+RQVKIWFQNRRMKLKKMNRENRIRELTANFNFS
