@@ -1,0 +1,73 @@
+********************** NetGene2 v. 2.4 ************************
+
+
+The sequence: gi_2789671_gb_AF040714.1_AF040714 has the following composition:
+
+Length:	2691 nucleotides.
+19.8% A, 31.8% C, 31.0% G, 17.4% T, 0.0% X, 62.8% G+C
+
+Donor splice sites, direct strand
+---------------------------------
+               pos 5'->3'  phase strand  confidence  5'      exon intron    3'
+                  1227       1     +        0.95       GATTCCCTGG^GTAAGCAGGG H
+                  1977       1     +        0.34       GGGCCCTGGG^GTGAGACAGC
+                  2011       2     +        0.63       CATCTTCCAA^GTAAGCACCC
+                  2161       0     +        0.30       GCTAAAACAG^GTGTTTGGAA
+
+Donor splice sites, complement strand
+-------------------------------------
+   pos 3'->5'  pos 5'->3'  phase strand  confidence  5'      exon intron    3'
+      2527         165       1     -        0.70       CCGCTCTCGA^GTAAGGTACA
+      2522         170       2     -        0.88       CTCGAGTAAG^GTACATATTG
+      2393         299       2     -        0.55       TGCCTGGCAT^GTAAGAGAAT
+       460        2232       2     -        0.55       CGGGCGGCAG^GTAGACCCCG
+
+Acceptor splice sites, direct strand
+------------------------------------
+               pos 5'->3'  phase strand  confidence  5'    intron exon      3'
+                    96       1     +        0.19       ATCAATACAG^ATTACATATT
+                   334       0     +        0.07       ATGCTCGGAG^AGCCCCGCCG
+                   336       2     +        0.07       GCTCGGAGAG^CCCCGCCGCG
+                   614       1     +        0.21       TCGCCCATAG^ACCTGTGGCT
+                   626       1     +        0.17       CTGTGGCTAG^ACGCGCCCCG
+                   719       1     +        0.07       CCCCAGCCAG^CGCCGCAGGC
+                   727       0     +        0.18       AGCGCCGCAG^GCCACCTCGT
+                   751       0     +        0.44       TTTCGCGCAG^AACATCAAAG
+                   761       1     +        0.19       AACATCAAAG^AAGAGAGCTC
+                   764       1     +        0.18       ATCAAAGAAG^AGAGCTCCTA
+                   922       0     +        0.33       CCTTTCTCAG^GCCTACGGCA
+                  1716       1     +        0.30       TTTTTCAAAG^TTGCTGAGGG
+                  2118       0     +        0.16       GCCCTCCCAG^GCCTTTCCTT
+                  2400       1     +        1.00       TACATGCCAG^GCAATTCCAA H
+                  2412       1     +        0.20       AATTCCAAAG^GTGAAAACGC
+                  2424       1     +        0.18       GAAAACGCAG^CCAACTGGCT
+
+Acceptor splice sites, complement strand
+----------------------------------------
+   pos 3'->5'  pos 5'->3'  phase strand  confidence  5'    intron exon      3'
+      2613          79       0     -        0.00       TTTTCTTCAG^TTTCATCCTG
+      2588         104       1     -        0.07       CTGAAACCAG^ATTTTCACTT
+      2033         659       2     -        0.25       TAGCCCCCAG^GCTAGGAGCG
+      1972         720       0     -        0.56       CTCACCCCAG^GGCCCTGATT
+      1859         833       0     -        0.27       GTTTCTCCAG^GAGCCAGGAT
+      1790         902       0     -        0.25       TGGCTCTCAG^CTCAGGGCCC
+      1785         907       2     -        0.33       CTCAGCTCAG^GGCCCCCCGC
+      1735         957       2     -        0.25       CGCCACGAAG^ATTCCCGCCC
+      1510        1182       1     -        0.43       CCGGCCACAG^GAAAGAGCGC
+      1237        1455       0     -        0.47       CCCTCTGCAG^CCCTGCTTAC
+      1223        1469       2     -        0.43       GCTTACCCAG^GGAATCCTTC
+      1204        1488       0     -        0.19       CTCCGGCGAG^GCTTTGCTGC
+      1185        1507       1     -        0.19       CTCTCGGAAG^GGGCCGGGGA
+       518        2174       2     -        0.19       TGCCGCCCAG^CGTGGGGAAG
+       508        2184       0     -        0.07       CGTGGGGAAG^AGCCCGCAGC
+       155        2537       1     -        0.25       GGTTTCGTAG^GCGCGGGGCC
+
+------------------------------------------------------------------------------
+
+CUTOFF values used for confidence:
+
+Highly confident donor sites (H):     95.0 %
+Nearly all true donor sites:          50.0 %
+
+Highly confident acceptor sites (H):  95.0 %
+Nearly all true acceptor sites:       20.0 %
